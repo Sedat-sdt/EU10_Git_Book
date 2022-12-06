@@ -1,0 +1,28 @@
+- If & Ternaries 	    ->
+								We will review while playing Kahoot..
+- Switch-Case Statement ->
+
+
+- Scanner Class: ============================================================================
+
+	***Scanner class is used to "retrieve user input from keyboard" and use it in our code
+
+	-How to implement Scanner:
+
+		//1. Create Scanner object
+		Scanner sc = new Scanner(System.in); => for now, just memorize it with this syntax
+
+		//2. Ask user to enter any info
+		System.out.println("please enter any type of data:");
+
+		//3. Assign user input into a variable after capturing it with appropriate methods of Scanner Object
+		DataType variableName = sc.next...();
+
+		  int age = sc.nextInt(); => Integer value
+
+		  int firstname = sc.next();  	=> String as "only one word" - with no space
+		  int fullName  = sc.nextLine();=> String as "one word" or "more than one word" and
+		  															also captures "Enter" key
+
+		Useful link:
+			https://www.javatpoint.com/Scanner-class
