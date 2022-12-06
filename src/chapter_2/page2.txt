@@ -1,0 +1,10 @@
+ Variable > is a container that holds any value for us based on the datatype declared.
+
+		- Variable Declaration:
+
+				String school;			> Declare
+				school = "Cydeo";		> Initialize = Assign
+				String name = "John";	> both of them are in the same line
+
+page 2
+text
